@@ -7,10 +7,11 @@ assignees: ''
 
 ---
 
-As a **user** I can **easily see the content** so that **I don't have to spend too long looking for what I am interested in**
+As a **role** I can **capability** so that **received benefit**
+
 
 ### Acceptance Criteria
 
-- Good font and background colour contrast
-- Clear heading 
-- Concise content
+- Acceptance criteria 1
+- Acceptance criteria 2
+- Acceptance criteria 3
